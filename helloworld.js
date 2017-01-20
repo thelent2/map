@@ -1,3 +1,3 @@
 (function($){
-    $(document).ready(function() {alert('hello world');});
+    $(document).ready(function() {alert('Hello cat?');});
 })(jQuery);
